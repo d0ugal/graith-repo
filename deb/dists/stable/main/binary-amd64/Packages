@@ -1,6 +1,23 @@
 Package: graith
 Priority: optional
 Section: 
+Installed-Size: 17582
+Maintainer: Dougal Matthews <dougal@dougalmatthews.com>
+Architecture: amd64
+Version: 0.64.1
+Filename: pool/main/g/graith/graith_0.64.1_linux_amd64.deb
+Size: 6976526
+MD5sum: 903ffc3edb86c6d6bf94d3d2e72b6478
+SHA1: 951c783fca63c15049ba2c592fc204fb456fd3c3
+SHA256: 0d8f384eae8437d889b01a83fd98cb503c20e62a15e347a6f7026fc2323c7f23
+SHA512: e17f5fe8f3a951fb08bdfb698f3a9d41816fa0e4466335a8fb7bc53daa86117b3c9effd5948d2753af8929d31eb9a1abadd3d0f92f7609e85d5ce2783d4d6fcd
+Description: Terminal session manager for AI coding agents
+Architecture-Variant: amd64v1
+Homepage: https://github.com/d0ugal/graith
+
+Package: graith
+Priority: optional
+Section: 
 Installed-Size: 17568
 Maintainer: Dougal Matthews <dougal@dougalmatthews.com>
 Architecture: amd64
