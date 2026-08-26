@@ -1,6 +1,22 @@
 Package: graith
 Priority: optional
 Section: 
+Installed-Size: 48326
+Maintainer: Dougal Matthews <dougal@dougalmatthews.com>
+Architecture: arm64
+Version: 0.73.17
+Filename: pool/main/g/graith/graith_0.73.17_linux_arm64.deb
+Size: 18170484
+MD5sum: b147cf85b3b913c5c5e520e173abd410
+SHA1: 453bdf474d3263c6d4044d76833fe40e6b0978e3
+SHA256: a5d641ae0a393e28ff906eeacad26da53783a02bb5f77a1e7b0d353dca354465
+SHA512: 0b630b9573e6913958ab056ace97d2be6c3ccdff610c32a2bcd89755d1fff9a79ff9ba648981e7257c4c6d5da0eeeb5949d6ee1cdf29f067c7c1f0dc2e47860b
+Description: Terminal session manager for AI coding agents
+Homepage: https://github.com/d0ugal/graith
+
+Package: graith
+Priority: optional
+Section: 
 Installed-Size: 48291
 Maintainer: Dougal Matthews <dougal@dougalmatthews.com>
 Architecture: arm64
@@ -59,22 +75,6 @@ MD5sum: 8bc5874dbafb62f5cc8ac2ab9df0e72c
 SHA1: 05242c5a140f48871cb02af094c31dacc199e7bf
 SHA256: b148cacd25d0b505f1d23880b58154934022bf9c09a2241deede71ec80ea7be0
 SHA512: 80582b7f71b18756bf4eef8056dc8061a9831bf5316618cde80d507792f7d1fbf4f412081a39676633b025a6d445f93fa402162fcc2d1d1155d2397a8c7af1ab
-Description: Terminal session manager for AI coding agents
-Homepage: https://github.com/d0ugal/graith
-
-Package: graith
-Priority: optional
-Section: 
-Installed-Size: 48009
-Maintainer: Dougal Matthews <dougal@dougalmatthews.com>
-Architecture: arm64
-Version: 0.73.12
-Filename: pool/main/g/graith/graith_0.73.12_linux_arm64.deb
-Size: 18205048
-MD5sum: 6ff71d67e716e4cf9c7650cf220f4ef6
-SHA1: cc76033cc1040cfd0cb22c2e34f94cd29c318e95
-SHA256: 337e466bc910d3c51b1593869466ded2da70379f12681c48ec5fdd33136c259d
-SHA512: 4a86180b66838ea876558d09823caae9606a0b1327984612be82e2508dfd5f425102647c8a330d5245208f134e70f9defe325e7fe35732ab5eae17f6c60bba66
 Description: Terminal session manager for AI coding agents
 Homepage: https://github.com/d0ugal/graith
 
